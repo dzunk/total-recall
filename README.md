@@ -15,7 +15,7 @@ I am incredibly grateful to the giants whose shoulders I stood on in order to pu
 * [Incremental Garbage Collection in Ruby 2.2](https://blog.heroku.com/incremental-gc) by [Koichi Sasada](http://www.atdot.net/~ko1/)
 * [Mark and Sweep Garbage Collection Algorithm](https://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm/) by [Chirag Agarwal](https://github.com/chiragragarwal)
 * [Optimizing Rails for Memory Usage](https://collectiveidea.com/blog/archives/2015/02/19/optimizing-rails-for-memory-usage-part-2-tuning-the-gc) by [Brian Hempel](https://twitter.com/brianhempel)
-* [Ruby Memory Environment Variables - Simpler Than They Look](http://engineering.appfolio.com/appfolio-engineering/2018/6/27/ruby-memory-environment-variables-simpler-than-they-look) by [Appfolio](http://engineering.appfolio.com/)
+* [Ruby Memory Environment Variables - Simpler Than They Look](http://engineering.appfolio.com/appfolio-engineering/2018/6/27/ruby-memory-environment-variables-simpler-than-they-look) by [Noah Gibbs](https://twitter.com/codefolio)
 * [Ruby Hacking Guide: Garbage Collection](https://ruby-hacking-guide.github.io/gc.html) by [Minero Aoki](https://github.com/aamine)
 * [Using lazy enumerators to work with large files in Ruby](http://blog.honeybadger.io/using-lazy-enumerators-to-work-with-large-files-in-ruby/) by [Starr Horne](https://twitter.com/StarrHorne)
 * [Visualizing Your Ruby Heap](https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html) by [Aaron Patterson](https://twitter.com/tenderlove)
