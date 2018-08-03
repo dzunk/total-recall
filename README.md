@@ -1,6 +1,6 @@
 # Total Recall
 
-A deep dive into Ruby memory management. I originally gave this talk in July 2017 at a [meetup](https://www.meetup.com/weedmaps-engineering/events/252718657/) hosted by [Weedmaps](https://weedmaps.com).
+A deep dive into Ruby memory management. I originally gave this talk in July 2018 at a [meetup](https://www.meetup.com/weedmaps-engineering/events/252718657/) hosted by [Weedmaps](https://weedmaps.com).
 
 ## References
 
